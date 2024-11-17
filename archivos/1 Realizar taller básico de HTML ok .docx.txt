@@ -1,0 +1,110 @@
+﻿Logotipo
+
+Descripción generada automáticamente con confianza media 
+
+
+
+REALIZAR TALLER BÁSICO DE HTML
+
+
+PROGRAMA DE FORMACIÓN: ADSO
+CÓDIGO DEL PROGRAMA: 228118
+TALLER: Realizar taller básico de HTML
+
+
+
+
+Competencia Diseñar la solución de software de acuerdo con procedimientos y requisitos técnicos Resultados de aprendizaje alcanzar: Elaborar los artefactos de diseño del software siguiendo las prácticas de la metodología seleccionada.
+
+
+OBSERVACION: los talleres se estarán subiendo en el espacio de territorio, el no cumplimiento de las entregas se estará ejerciendo las sanciones dichas por el reglamento.
+https://senacertificados.co/reglamento-del-aprendiz-sena/
+
+
+El aprendiz si presenta dificultades de entrega, no compresión de los temas debe hacer su solicitud de manera escrita y concertar un tiempo extra clase para el refuerzo indicados en territorio y los correos recordatorios de entrega.
+
+
+El taller lo pude hacer en parejas, si hay mas de 2 se anula la entrega, por favor no insistir la cantidad de integrantes.
+
+
+1. Definir cada uno de las etiquetas y hacer  el código y presentar el pantallazo del resultado.
+  
+
+Pegar resultado de código:
+
+
+2. Se te entrega un texto que debes convertir en pagina web, claro se te entrega el código para que sepas lo que debes hacer, pero debes definir cada etiqueta que se usa y entregar el resultado de la pagina resultante
+
+
+Texto:
+ventajas de html y hacer una pagina web
+HTML es el lenguaje de marcado estándar utilizado para crear páginas web. Algunas de las ventajas de HTML para crear páginas web incluyen:
+
+
+Fácil de aprender y utilizar: HTML es un lenguaje de marcado simple y fácil de aprender. Con un conocimiento básico de las etiquetas y la estructura del lenguaje, cualquiera puede crear una página web.
+
+
+Compatible con todos los navegadores web: HTML es compatible con todos los navegadores web modernos, lo que significa que las páginas web creadas con HTML se pueden ver en cualquier dispositivo con acceso a Internet.
+
+
+Flexibilidad en la creación de contenido: HTML proporciona una amplia variedad de etiquetas para crear diferentes tipos de contenido en una página web, desde texto y enlaces hasta imágenes y videos.
+
+
+Optimización para motores de búsqueda: HTML proporciona una estructura clara y organizada para el contenido de una página web, lo que facilita a los motores de búsqueda indexar y clasificar el contenido de manera eficiente.
+
+
+Amplia disponibilidad de herramientas y recursos: Debido a su popularidad, hay una amplia gama de herramientas y recursos disponibles para ayudar a los desarrolladores a crear y mantener páginas web con HTML, desde editores de texto simples hasta software de diseño gráfico avanzado.
+
+
+Para crear una página web utilizando HTML, puede seguir los siguientes pasos:
+
+
+1. Planifique la estructura y el contenido de su sitio web.
+2. Escriba el código HTML para crear la estructura de su sitio web, utilizando las etiquetas necesarias para definir los elementos y el contenido de la página.
+3. Agregue estilos a su página web usando CSS para darle un aspecto visual atractivo.
+4. Agregue interactividad a su página web utilizando JavaScript si es necesario.
+5. Publique su sitio web en un servidor web para que esté disponible en línea.
+una guía básica para ayudarlo a crear su propia página web utilizando HTML.
+
+
+* Planifique la estructura y el contenido de su sitio web: Decida qué contenido quiere incluir en su sitio web y cómo desea organizarlo. Haga un esquema o boceto de su página para ayudarle a visualizar cómo se verá su sitio web.
+
+
+* Escriba el código HTML: Use un editor de texto como Notepad o Sublime Text para escribir el código HTML de su sitio web. Asegúrese de incluir las etiquetas necesarias para definir los elementos y el contenido de la página, como <html>, <head>, <title>,
+
+
+Codigo:
+  
+
+Resultado de codigo:
+3. Código de imágenes
+Definir etiquetas y entregar el resultado de la página web.
+  
+
+4. ¿Qué hace este código y adjuntar el resultado?
+  
+
+5. ¿Qué hace este código y adjuntar el resultado?
+Son de videos, pero debes trabajar y hacer una pagina con videos locales y de YouTube
+Para reforzar un poco el tema ver el video.
+https://www.youtube.com/watch?v=ptc4Awb0UpU
+  
+
+6. Realiza una pagina web donde tenga hipervinculos con tipos de archivos, ejemplo:
+<p>Para descargar un archivo en PDF, haga clic <a href="ruta/al/archivo.pdf">aquí</a>.</p>
+<p>Para descargar un archivo en TXT, haga clic <a href="ruta/al/archivo.txt">aquí</a>.</p>
+<p>Para descargar un archivo en DOC, haga clic <a href="ruta/al/archivo.doc">aquí</a>.</p>
+
+
+6 practicando hipervínculos.
+Genial termino todos los ejercicios ahora realizas una pagina web donde harás hipervínculos de todos los ejercicios realizados en el taller, el código es este.
+  
+
+Debes colocar fondo de color .
+Con el mismo código y con los hipervínculos de cada página web que hizo debes hacer un fondo de imagen.
+
+
+
+
+Como entregar el trabajo:
+Tanto las definiciones y el archivo deben ir comprimidos y enviados en el espacio de
